@@ -14,7 +14,6 @@
 ## 🚀 Instalando e iniciando a API
 
 - Clone o repositório
-- Faça uma copia do arquivo .env.example para .env e preencha as informações
 - Instale as dependências com `npm install`
 - Inicie o servidor com `npm run dev`
 
