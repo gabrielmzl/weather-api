@@ -25,7 +25,7 @@ Será iniciado um servidor em <http://localhost:3000>
 ## Rotas
 
 | URL | Método | Descrição |
-| -------- | ------------- | --------- | ------- |
+| -------- | ------------- | --------- |
 | `/api/lugar` | GET | Procura informações sobre o clima da cidade
 
 Onde `lugar` vai ser qual cidade ou país que você quer obter informações sobre o clima.
@@ -33,7 +33,7 @@ Onde `lugar` vai ser qual cidade ou país que você quer obter informações sob
 #### Exemplo
 
 | URL | Método |
-| -------- | ------------- | --------- | ------- |
+| -------- | ------------- |
 | `/api/piracicaba` | GET 
 
 Retorna:
