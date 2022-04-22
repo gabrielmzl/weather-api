@@ -25,7 +25,7 @@ Será iniciado um servidor em <http://localhost:3000>
 
 | URL | Método | Descrição |
 | -------- | ------------- | --------- |
-| `/api/lugar` | GET | Procura informações sobre o clima da cidade
+| `/api/lugar` | GET | Procura informações sobre o clima do lugar
 
 Onde `lugar` vai ser qual cidade ou país que você quer obter informações sobre o clima.
 
