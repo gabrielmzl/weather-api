@@ -2,6 +2,7 @@ const router = require('express').Router()
 const puppeteer = require('puppeteer');
 
 router.get('/:cidade', async (req, res) => {
+  console.log('aa')
   const cidade = req.params.cidade
 
   try {
